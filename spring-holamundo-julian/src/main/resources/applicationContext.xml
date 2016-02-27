@@ -7,6 +7,6 @@
 		<property name="mensaje" value="Hola Mundo con Spring" />
 	</bean>
 	<bean id="miBean2" class="beans.Taller">
-		<property name="mensaje" value="Taller 1" />
+		<property name="mensaje" value="Taller de Pereza- zzzzzzz" />
 	</bean>	
 </beans>
